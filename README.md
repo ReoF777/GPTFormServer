@@ -10,3 +10,6 @@
 - **バックエンド**: FastAPI
 - **API**: OpenAI GPT-3.5 (またはその他のChatGPT API)
 - **データフォーマット**: JSON
+
+# 注意
+pythonのopenaiのバージョンは1.45.0とした。
