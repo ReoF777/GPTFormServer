@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\erica\\Documents\\ATR\\App\\GPT\\GPTFormServer\\frontend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C80919CA-4EE1-4B62-8729-E2D219467859}|frontend\\frontend.csproj|c:\\users\\erica\\documents\\atr\\app\\gpt\\gptformserver\\frontend\\frontend\\gptform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C80919CA-4EE1-4B62-8729-E2D219467859}|frontend\\frontend.csproj|solutionrelative:frontend\\gptform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C80919CA-4EE1-4B62-8729-E2D219467859}|frontend\\frontend.csproj|c:\\users\\erica\\documents\\atr\\app\\gpt\\gptformserver\\frontend\\frontend\\gptform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C80919CA-4EE1-4B62-8729-E2D219467859}|frontend\\frontend.csproj|solutionrelative:frontend\\gptform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 314,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GPTForm.cs",
+              "DocumentMoniker": "C:\\Users\\erica\\Documents\\ATR\\App\\GPT\\GPTFormServer\\frontend\\frontend\\GPTForm.cs",
+              "RelativeDocumentMoniker": "frontend\\GPTForm.cs",
+              "ToolTip": "C:\\Users\\erica\\Documents\\ATR\\App\\GPT\\GPTFormServer\\frontend\\frontend\\GPTForm.cs",
+              "RelativeToolTip": "frontend\\GPTForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T02:25:36.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GPTForm.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "DocumentMoniker": "C:\\Users\\erica\\Documents\\ATR\\App\\GPT\\GPTFormServer\\frontend\\frontend\\GPTForm.cs",
+              "RelativeDocumentMoniker": "frontend\\GPTForm.cs",
+              "ToolTip": "C:\\Users\\erica\\Documents\\ATR\\App\\GPT\\GPTFormServer\\frontend\\frontend\\GPTForm.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "RelativeToolTip": "frontend\\GPTForm.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T02:25:20.087Z",
+              "EditorCaption": " [\u30C7\u30B6\u30A4\u30F3]"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 72,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

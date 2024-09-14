@@ -1,0 +1,16 @@
+C:\Users\erica\Documents\ATR\App\GPT\GPTFormServer\frontend\frontend\bin\Debug\net8.0-windows\frontend.exe
+C:\Users\erica\Documents\ATR\App\GPT\GPTFormServer\frontend\frontend\bin\Debug\net8.0-windows\frontend.deps.json
+C:\Users\erica\Documents\ATR\App\GPT\GPTFormServer\frontend\frontend\bin\Debug\net8.0-windows\frontend.runtimeconfig.json
+C:\Users\erica\Documents\ATR\App\GPT\GPTFormServer\frontend\frontend\bin\Debug\net8.0-windows\frontend.dll
+C:\Users\erica\Documents\ATR\App\GPT\GPTFormServer\frontend\frontend\bin\Debug\net8.0-windows\frontend.pdb
+C:\Users\erica\Documents\ATR\App\GPT\GPTFormServer\frontend\frontend\obj\Debug\net8.0-windows\frontend.Form1.resources
+C:\Users\erica\Documents\ATR\App\GPT\GPTFormServer\frontend\frontend\obj\Debug\net8.0-windows\frontend.csproj.GenerateResource.cache
+C:\Users\erica\Documents\ATR\App\GPT\GPTFormServer\frontend\frontend\obj\Debug\net8.0-windows\frontend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erica\Documents\ATR\App\GPT\GPTFormServer\frontend\frontend\obj\Debug\net8.0-windows\frontend.AssemblyInfoInputs.cache
+C:\Users\erica\Documents\ATR\App\GPT\GPTFormServer\frontend\frontend\obj\Debug\net8.0-windows\frontend.AssemblyInfo.cs
+C:\Users\erica\Documents\ATR\App\GPT\GPTFormServer\frontend\frontend\obj\Debug\net8.0-windows\frontend.csproj.CoreCompileInputs.cache
+C:\Users\erica\Documents\ATR\App\GPT\GPTFormServer\frontend\frontend\obj\Debug\net8.0-windows\frontend.dll
+C:\Users\erica\Documents\ATR\App\GPT\GPTFormServer\frontend\frontend\obj\Debug\net8.0-windows\refint\frontend.dll
+C:\Users\erica\Documents\ATR\App\GPT\GPTFormServer\frontend\frontend\obj\Debug\net8.0-windows\frontend.pdb
+C:\Users\erica\Documents\ATR\App\GPT\GPTFormServer\frontend\frontend\obj\Debug\net8.0-windows\frontend.genruntimeconfig.cache
+C:\Users\erica\Documents\ATR\App\GPT\GPTFormServer\frontend\frontend\obj\Debug\net8.0-windows\ref\frontend.dll
