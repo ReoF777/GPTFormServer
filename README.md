@@ -8,7 +8,7 @@
 
 - **フロントエンド**: Windows Forms (WinForms)
 - **バックエンド**: FastAPI
-- **API**: OpenAI GPT-4o (またはその他のChatGPT API)
+- **API**: OpenAI GPT-3.5Turbo (またはその他のChatGPT API)
 - **データフォーマット**: JSON
 
 # 注意
